@@ -75,3 +75,12 @@ This repository consists of:
 * ##### [rotations.py](https://github.com/HossamKhalil-hub01/State-Estimation-using-ES-EKF/blob/master/rotations.py):
 
     implements Quaternion class and other usefull functions to handle rotation operations.
+
+
+
+
+## Dependencies
+
+* [Python 3](https://www.python.org/downloads/)
+* [matplotlib](https://matplotlib.org/)
+* [numpy](https://numpy.org/)
